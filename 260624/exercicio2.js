@@ -1,5 +1,5 @@
 //desafio 02
     const programmingLanguage = "JavaScript"
-        const js = programmingLanguage[0] + programmingLanguage[4]
+        const js = programmingLanguage[3] + programmingLanguage[4]
 
 console.log(js);
